@@ -1,0 +1,7 @@
+<Response>
+  <Say voice="alice">Waiting</Say>
+  <Pause length=10/>
+  <Say voice="alice">It looks like you're a spammer. Please stop calling me.</Say>
+  <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
+
